@@ -13,8 +13,6 @@ Password = input("Enter your Password: ")
 access_token = Client.get_access_token(username=Username, password=Password)
 client = Client(access_token=access_token)
 
-# test
-
 scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',
          "https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
 creds = ServiceAccountCredentials.from_json_keyfile_name("creds.json", scope)
