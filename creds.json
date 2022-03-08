@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "district-payments",
+  "private_key_id": "ec964a0c9480cb857dc79ef0435eb5b6cc01112c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCb4U0z+ULGD7W5\nZsJ+g2GD5brywg/yNiBvliNBteyD1x/MIVYkcKyCT1r3Du2TF7XjMrfT34s432Ws\nL5jRKR6EqcF+0BnDUucdfHOAy04v5I9ERcz0jIE1Y1rDo3quK55fuToJyhwAv5b/\nppeZlsFhupseFhm9+hF1FMsRHMQLtnyfBRBJD+cJpWbHAsn9TzbnBtnBtUCCaS4a\nvZQvF/fUjfKFQpJROgIur5ZQQ6Q5m/fSt45y0lwwi50oQO2VHAh9PFvZb02vVI46\nlcjkfLiagMWyrwL8uBLCUTpGCN9G+xscPj696pKFtiQc0+aqVoBXyKCfmwnHardb\nIsi2nFpFAgMBAAECggEACQi+fvXiDRURgOiH+qmWH/0TP+kH4A+LgzQWIIOQ7NYt\nsVi4Q53lHZtISBvNIJKF9+AzX7vrt3TZEWjjyDGEI4esH3OjnpqiKucQ0aTWx/dM\n51XNSloPTf8PXlnN7SS5hc44IyObyl5QO8pVrHDcjdOxFEYPIV/KHblCCKCcaxpG\nBGkzYDl04uNbh5RpuW9CeoTEhBfTlUqYSjhP2X8o9ckmkgZkL63evVQrp51U0uIP\noEijvJCCqJvXV4aAnSC06DS4cPCySSuPpyn/rzzZP2ecUUJWuzPzrWZn2sai31kG\nh2nvAAAwNUrwP9nzbIysw2LRa9bZShLWyo6ujUEAMQKBgQDPTouysSJgN6hLYtXC\nmG6v9mo3yJ8jDyyLoPgH4qiBu06qKBugoOctKNGXD14OQw8eIjD7EI2N5zOaqiMT\nZL8dekfwLFAFCIJ2EdozORmGMYQIOXA7Ome5M36cVLXuALHwAeuBWCVh4APsmroy\nBRa8W6+xImoS45bKm+k0D0ShlQKBgQDAfnFTYzL1HPREMGZuxzsVidPyz6nGfzSB\n7yhmyW1TBVcM+R33OkUFTR1Nml7bwfPi+/pzbDos4/VKKgM4WqJwLpIKivVP+TXB\nowCCw8z7OgCms41VxFLRZ3SyDJZzK9ahnK0g2ZETf44WfyNgMacAHimP/YBrchl0\n2a5Xx4oJ8QKBgQClijY5qgMmTCuCj1jcvHZe4umsw/J3v401roOBYHhoqBbH/6EY\nIoSX5il/dBEKWHhA+tKcGXq/3uixT70UpnWKZ3P8kJYRftsWx2izUJxWMUIagytg\n0GG1XS50TZy9giaU3iOeNLIdNxJLJL8cZD3kiV6Bl1aW4NAv2FJfdPW8BQKBgEVc\nintQsGjwUPhNNGvQcHLXYj8JIxT6ezIiuj0ncbRLpU1waqLOJVa+rcNrz6iCH953\ni4yRv/iy/40EzHo+9m9T6J3R6okxtHQcxy9XXIJeKSPoaRIxluIL1Fnf/Upszn8X\nlK7UltkeylVC5L1hxtpdA/71ipOs3o1jbtYEebIRAoGBALkJifqNew0IBhXBtLY+\nAcx/J0OJk6wywn6BFjZroPYIyPdJ75yTd+lryocGA77knHqTqF4m0hJU4Okqy3a1\n01iUccRZYN50bTvfstmtiB2ok1mty0EMk4enAEBzUbKC72rg00Yac4NiSQPQa2ZN\nYG4cI9vVSBuO493vw+u+9esy\n-----END PRIVATE KEY-----\n",
+  "client_email": "michael-trusio@district-payments.iam.gserviceaccount.com",
+  "client_id": "112970284868993299965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/michael-trusio%40district-payments.iam.gserviceaccount.com"
+}
